@@ -25,5 +25,7 @@ let state;
 
 // object
 
+
+//You can check the type of variable
 console.log(typeof undefined); // undefined
 console.log(typeof null); // object   
